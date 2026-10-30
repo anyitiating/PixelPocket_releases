@@ -5,7 +5,7 @@
 
 ## 설치
 
-1. **[PixelPocket.zip 받기](https://github.com/anyitiating/PixelPocket-releases/releases/latest/download/PixelPocket.zip)**
+1. **[PixelPocket.zip 받기](https://github.com/anyitiating/PixelPocket_releases/releases/latest/download/PixelPocket.zip)**
 2. 원하는 곳에 압축을 풉니다.
 3. 폴더 안의 `PixelPocket.exe`를 실행합니다.
 
